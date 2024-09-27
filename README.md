@@ -11,7 +11,7 @@ This is my starter portfolio, soon to be larger! I don't have much but that does
 - [Questions](#questions)
 
 ## Usage
-Click this link. [My Portfolio](mrcows.github.io/My-portfolio)
+Click this link. [My Portfolio](https://mrcows.github.io/My-portfolio/)
 
 ## License
 
